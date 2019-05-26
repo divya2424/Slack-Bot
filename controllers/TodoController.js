@@ -2,7 +2,7 @@
 var TodoModel = require("../models/TodoModel");
 const SlackBot = require('slackbots');
 var Slack = require('slack-node');
-apiToken = "xoxb-638895790081-645299961040-B51TRN4Bd1QaQB9zYO0dp8Mt";
+apiToken = "xoxb-638895790081-645299961040-B51TRN4Bd1QaQB9zYO0dp8Mtq";
 var rest = require('restler');
 
 
