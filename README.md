@@ -4,4 +4,5 @@ https://join.slack.com/t/test-cyr9182/shared_invite/enQtNjQ2MDI1NTE5OTcyLTZjMWRj
 
 # To start the application
 1) cd slack bot
-2) npm start
+2) npm install
+3) npm start
